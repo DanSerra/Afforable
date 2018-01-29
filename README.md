@@ -16,7 +16,7 @@
 
 ## Sketch
 
-![sketch](https://user-images.githubusercontent.com/31232183/35489934-54694864-0461-11e8-8fc8-83ab84f5b3aa.jpg)
+![sketch](https://user-images.githubusercontent.com/31232183/35490520-bddf936c-0465-11e8-99e0-cc1f648d0e3b.jpg)
 
 ## Descripción del sketch ##
  Primera vista- Entrada a la aplicación
@@ -27,9 +27,10 @@
 
 ## Descripción de propuesta ##
 UI
-Un panel estratégico  proporciona al equipo (en este caso a los TM) una visión general del estado del proyecto junto con las oportunidades a enfrentar.  
+En cuanto al tipo de representación se utilizaron códigos tipográficos y de color reticentes es decir  uso mínimo de recursos con la intención de no generar ruido.  
 
 UX
-En esta propuesta se prioriza la visualización de las imágenes que muestran expresiones artisticas de los usuarios, que es el objetivo principal de la aplicación. El uso de tarjetas y la visualización continua de las publicaciones permite un flujo de información.
+En esta propuesta se prioriza la visualización de las imágenes que muestran expresiones artisticas de los usuarios, que es el objetivo principal de la aplicación. El uso de tarjetas y la visualización continua de las publicaciones permite el flujo de información.
 
- En cuanto al tipo de representación se utilizaron códigos tipográficos y de color reticentes es decir  uso mínimo de recursos con la intención de no generar ruido.  
+## Propuesta UI Elements
+![ui elements - color palette](https://user-images.githubusercontent.com/31232183/35527943-f7e7c96c-04f1-11e8-905f-259c30d7391c.png)
