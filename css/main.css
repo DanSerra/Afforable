@@ -1,0 +1,18 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+#pantalla1 {
+ background-image: url( ../assets/images/omar_barquet.jpg);
+ height: 100%;
+ position: fixed;
+ width: 100%;
+}
+
+
+#logo-morado {
+ display: block;
+ margin: 0 auto;
+ margin-top: 20%;
+ width: 30%;
+}
