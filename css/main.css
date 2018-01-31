@@ -7,11 +7,17 @@ h1 {
   font-weight: 300;
 }
 
+p{
+  color: #181743;
+  font-weight: 400;
+}
+
+/*pantalla1*/
 
 
 #pantalla1 {
  background-image: url( ../assets/images/omar_barquet.jpg);
- height: 100vh;
+ height: 120vh;
  width: 100%;
 }
 
@@ -20,4 +26,60 @@ h1 {
  margin: 0 auto;
  margin-top: 20%;
  width: 30%;
+}
+
+#inicio {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5%;
+  text-align: center;
+}
+
+
+/*pantalla2*/
+/*header*/
+.prueba {
+  background-color: rgba(110, 31, 255, 0.02)
+
+}
+
+.data-icon {
+
+}
+
+.user{
+  display: inline-block;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.location {
+  display: block;
+  margin-left: 70px;
+  margin-bottom: 0px;
+
+}
+
+/*card*/
+
+.avatar {
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+/*card*/
+ .card {
+   margin-top: 10px;
+
+ }
+
+
+.text-muted {
+  color: #B2B2B2;
+}
+
+textarea {
+  border-color: #6E1FFF;
+  border-radius: 15px;
 }
