@@ -16,9 +16,6 @@
 
 Propuesta
 
-![screen shot views](assets/images/views.png)
-
-
 ## Análisis del usuario
 
  VISIÓN DEL MERCADO GLOBAL
