@@ -14,6 +14,8 @@
  *  comprar arte
  *  aprender arte
 
+![views](https://user-images.githubusercontent.com/31232183/38585138-6b866e68-3cde-11e8-9e1a-d906dab48565.png)
+
 ## Análisis del usuario
 
  VISIÓN DEL MERCADO GLOBAL
