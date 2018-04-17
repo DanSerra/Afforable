@@ -1,4 +1,5 @@
-# Laboratoria Social Media App #
+# Afforable #
+Laboratoria Social Media App
 
 * **Track:** _Retos_
 * **Curso:** _Crea tu propia red social_
