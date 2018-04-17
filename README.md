@@ -1,4 +1,4 @@
-# Afforable #
+# Afforable 
 Laboratoria Social Media App
 
 * **Track:** _Retos_
